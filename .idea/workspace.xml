@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a2587dc-be54-4d1f-a028-d55ea2e277e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer-internal-cart1.html" beforeDir="false" afterPath="$PROJECT_DIR$/offer-internal-cart1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review.html" beforeDir="false" afterPath="$PROJECT_DIR$/review.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offer-internal-cart2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="offer-internal-cart2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/offer-internal-cart2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="334" column="32" selection-start-line="334" selection-start-column="32" selection-end-line="334" selection-end-column="32" />
+              <caret line="334" column="16" lean-forward="true" selection-start-line="334" selection-start-column="16" selection-end-line="436" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -97,6 +95,7 @@
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
@@ -111,6 +110,18 @@
                 <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,29 +211,30 @@
       <find>review</find>
       <find>rateyo-readonly-widg</find>
       <find>.iti-flag</find>
-      <find />
-      <find />
+      <find>#full-stars-example-two .rating__icon--star</find>
+      <find>#full-stars-example-two .rating__label</find>
       <find>.intl-tel-input</find>
       <find>rating__input</find>
       <find>rating3-5</find>
-      <find />
-      <find />
-      <find />
+      <find>.profile form .justify-content-center input</find>
+      <find>.profile form .justify-content-center</find>
+      <find>.brawsing .container h1</find>
       <find>card</find>
       <find>owl-carousel</find>
       <find>item</find>
       <find>btn-white</find>
-      <find />
+      <find>Add a Coupon</find>
       <find>.thirdDesc</find>
-      <find />
-      <find />
-      <find />
+      <find>.leftDesc .firstDesc img</find>
+      <find>.message-input form</find>
+      <find>.message-input form button</find>
       <find>message-input</find>
-      <find />
-      <find />
+      <find>.thirdDesc .thirdInfoItem</find>
+      <find>Popular with Casaloon Users</find>
       <find>Services</find>
-      <find />
-      <find />
+      <find>#full-stars-example-two .rating__input</find>
+      <find>Take Me</find>
+      <find>Choose</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -247,7 +259,6 @@
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/new-account.html" />
         <option value="$PROJECT_DIR$/offer.html" />
-        <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/product-internal.html" />
         <option value="$PROJECT_DIR$/profile.html" />
         <option value="$PROJECT_DIR$/index-user.html" />
@@ -262,11 +273,12 @@
         <option value="$PROJECT_DIR$/offer-internal-cart.html" />
         <option value="$PROJECT_DIR$/css/style-ar.css" />
         <option value="$PROJECT_DIR$/company-profile.html" />
-        <option value="$PROJECT_DIR$/offer-internal-cart2.html" />
         <option value="$PROJECT_DIR$/css/stayle-rate-review.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/review.html" />
         <option value="$PROJECT_DIR$/offer-internal-cart1.html" />
+        <option value="$PROJECT_DIR$/offer-internal-cart2.html" />
+        <option value="$PROJECT_DIR$/product.html" />
       </list>
     </option>
   </component>
@@ -365,12 +377,12 @@
       <workItem from="1557383026813" duration="15373000" />
       <workItem from="1557695303301" duration="14420000" />
       <workItem from="1558080763507" duration="7855000" />
-      <workItem from="1558119470858" duration="490000" />
+      <workItem from="1558119470858" duration="983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173064000" />
+    <option name="totallyTimeSpent" value="173557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -581,13 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -805,7 +810,7 @@
     <entry file="file://$PROJECT_DIR$/offer-internal-cart2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="334" column="32" selection-start-line="334" selection-start-column="32" selection-end-line="334" selection-end-column="32" />
+          <caret line="334" column="16" lean-forward="true" selection-start-line="334" selection-start-column="16" selection-end-line="436" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -829,6 +834,7 @@
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
@@ -843,6 +849,16 @@
             <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
